@@ -1,0 +1,27 @@
+body{
+    background-color:#652aa4;   
+}
+h1{
+    color: #652aa4;
+}
+#AreaDeLogin{
+    background-color: white;
+    width: 280px;
+    height: 280px;
+    margin: 50px auto;
+    border-radius: 16px;
+}
+.formulario{
+    margin-left: 16px;
+}
+
+button, input {
+    width: 90%;
+    
+}
+button{
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 8px;
+    
+}
